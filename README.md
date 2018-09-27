@@ -1,2 +1,3 @@
-# OwlCarouselExample1
-Full width image carousel
+# Owl Carousel Example - Full Width
+
+
