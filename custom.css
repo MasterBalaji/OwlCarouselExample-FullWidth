@@ -1,0 +1,30 @@
+.owl-theme .owl-dots .owl-dot span {
+    background: LIGHTGREY;
+    height: 10px;
+    width: 10px;
+    border: 4px LIGHTGREY SOLID;
+    transition-duration: 300ms;
+    transition-property: all;
+}
+
+.owl-theme .owl-dots .owl-dot.active span {
+    background: WHITE;
+    height: 10px;
+    width: 10px;
+    border: 4px GREY SOLID;
+    transition-duration: 300ms;
+    transition-property: all;
+
+}
+
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: WHITE;
+    height: 10px;
+    width: 10px;
+    border: 4px GREY SOLID;
+    transition-duration: 300ms;
+    transition-property: all;
+}
+
+.owl-carousel .owl-stage-outer {
+    border-radius: 10px;
